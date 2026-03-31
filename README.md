@@ -18,13 +18,28 @@
 
 ## 📸 Project Gallery
 
-| PCB Layout | 3D Top View |
-|:---:|:---:|
-| ![PCB Layout](FW.JPG) | ![3D Top View](TW.JPG) |
+<div align="center">
 
-| 3D Perspective | Enclosure View |
-|:---:|:---:|
-| ![3D Perspective](SW.JPG) | ![Enclosure View](SSV.JPG) |
+<table>
+  <tr>
+    <td align="center"><b>🗺️ PCB Layout</b></td>
+    <td align="center"><b>🔭 3D Top View</b></td>
+  </tr>
+  <tr>
+    <td><img src="PCB_Layout.JPG" alt="PCB Layout" width="420"/></td>
+    <td><img src="3D_Top_View.JPG" alt="3D Top View" width="420"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📐 3D Perspective</b></td>
+    <td align="center"><b>📦 Enclosure View</b></td>
+  </tr>
+  <tr>
+    <td><img src="3D_Perspective.JPG" alt="3D Perspective" width="420"/></td>
+    <td><img src="Enclosure_View.JPG" alt="Enclosure View" width="420"/></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
