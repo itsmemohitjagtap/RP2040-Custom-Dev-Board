@@ -184,9 +184,6 @@ The board was designed using **EasyEDA** (LCEDA). Design files are included in t
 ### 📦 Ordering PCBs
 
 Upload the `Gerber_PCB1_RP2040.zip` to any PCB manufacturer:
-- [JLCPCB](https://jlcpcb.com) *(recommended)*
-- [PCBWay](https://pcbway.com)
-- [OSH Park](https://oshpark.com)
 
 **Recommended fabrication settings:**
 | Setting | Value |
